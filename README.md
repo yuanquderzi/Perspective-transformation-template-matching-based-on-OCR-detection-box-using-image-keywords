@@ -1,5 +1,4 @@
-# Perspective-transformation-template-matching-based-on-OCR-detection-box-using-image-keywords
-基于图像关键字ocr检测框的透视变换模板匹配
+# 基于图像关键字ocr检测框的透视变换模板匹配
 
 ## **一、项目简介**
 基于“营业执照”、“开户许可证”等关键词的ocr检测框角点进行透视变换模板匹配，进而提取出营业执照、开户许可证等图片结构化的关键信息。不用大规模训练模型！

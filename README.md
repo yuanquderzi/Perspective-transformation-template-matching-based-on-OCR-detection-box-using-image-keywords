@@ -42,7 +42,7 @@ ocr识别
 如需要完整项目，请联系
 
 <div align=center>
-<img src="data/wechat.jpg" width="50%">
+<img src="assets/wechat.jpg" width="50%">
 </div>
 
 
